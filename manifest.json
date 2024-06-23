@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "logo.png",
+         "16": "logo.png",
+         "48": "logo.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "description": "Make trip planning easier and ever customizable with the power of GenAI",
+   "icons": {
+      "128": "logo.png",
+      "16": "logo.png",
+      "48": "logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkqM8idmfT1YKi+gUCR4eCtE4xg6SxfBqmBiccaamiCAur9EevNv0GbDAmTKesbQ6d56y8eFtHmFnVpo3tyK3FM0XlzAB2xHUtlLrqsfUzf9M0j2vWcPfEAxt2cAAlhV6FY9wL5jaA2QJAp0CiU+/yQUfhZurUevKC1NjzmNcx1E1tz4vE5pjxjeu5t6M4WzAjggQkWcput6nkpWkNBe2TIK4daeUWvsXfXPlHrMoQzzD/PXCEQwGO39sKorDBBf1/4pOhR2wVkoYROGmfoNcPqtHYHgQQdRI9zNauX1NRINfC9fsUG36yFSLHcKO4jd/FFi8ojI60WttDOdPn0lvIwIDAQAB",
+   "manifest_version": 3,
+   "name": "Itenera",
+   "permissions": [ "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5"
+}
